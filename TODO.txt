@@ -1,0 +1,4 @@
+- Instrucciones de como usarlo sin cron
+- Soportar mas dominios
+- Pasar los parametros por variables de entorno o archivo de configuracion
+- 
